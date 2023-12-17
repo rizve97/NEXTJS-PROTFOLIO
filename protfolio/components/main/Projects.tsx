@@ -12,7 +12,7 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/"
+          src="/currency.PNG"
           title="Currency Converter"
           description="Built with React, my currency converter app seamlessly converts currencies in real-time, providing users with accurate exchange rates. The intuitive user interface ensures a smooth experience, allowing users to effortlessly switch between different currencies. Powered by React's efficiency, the app delivers a responsive and dynamic platform for hassle-free currency conversion."
         />
