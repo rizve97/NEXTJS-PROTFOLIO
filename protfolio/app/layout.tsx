@@ -4,6 +4,7 @@ import './globals.css'
 import StarsCanvas from '@/components/main/StarBackgroud';
 import Navbar from '@/components/main/Navbar';
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -24,7 +25,8 @@ export default function RootLayout({
         <Navbar/>
         <StarsCanvas />
         {children}
-      
+        
+        
       </body>
     </html>
   );

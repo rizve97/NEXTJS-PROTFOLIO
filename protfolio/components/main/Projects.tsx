@@ -14,18 +14,14 @@ const Projects = () => {
         <ProjectCard
           src="/currency.PNG"
           title="Currency Converter"
-          description="Built with React, my currency converter app seamlessly converts currencies in real-time, providing users with accurate exchange rates. The intuitive user interface ensures a smooth experience, allowing users to effortlessly switch between different currencies. Powered by React's efficiency, the app delivers a responsive and dynamic platform for hassle-free currency conversion."
+          description="Built with React, my currency converter app seamlessly converts currencies in real-time, providing users with accurate exchange rates. The intuitive user interface ensures a smooth experience, allowing users to effortlessly switch between different currencies."
         />
         <ProjectCard
-          src="/CardImage.png"
-          title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/blog.PNG"
+          title="React-Blog-App"
+          description="Dive into the world of blogging with this React-based Blog App. Enjoy an intuitive interface, dynamic post creation, and responsive design. Elevate your content creation journey with the power of React."
         />
-        <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        />
+      
       </div>
     </div>
   );
